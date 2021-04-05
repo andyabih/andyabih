@@ -1,6 +1,6 @@
 # Why, hello there! :wave:
 
-I'm a web developer based in [Beirut, Lebanon :hamburger:](https://i.pinimg.com/originals/ec/8e/c5/ec8ec5f59a38a03cd1b9e84802ef51c8.jpg). I run [@yllw-digital](https://github.com/yllw-digital) with my partner [@joegabdelsater](https://github.com/joegabdelsater). I enjoy and mainly work with Laravel, but I also dabble in other technologies and languages from time to time, just to spice things up (looking at you, Go!).
+I'm a web developer based in [Beirut, Lebanon :hamburger:](https://i.pinimg.com/originals/ec/8e/c5/ec8ec5f59a38a03cd1b9e84802ef51c8.jpg). I run [@yllw-digital](https://github.com/yllw-digital) with my partner [@joegabdelsater](https://github.com/joegabdelsater). I enjoy and mainly work with Laravel/Vue, but I also dabble in other technologies and languages from time to time, just to spice things up (looking at you, Go!).
 
 * 💻 Currently, when I'm not working on client projects, I'm either learning about different technologies (right now that's Go), or working on side projects like Laravel Catapult (soon!), or CodeCandy (also, soon!).
 * 👐 Absolutely love meeting new people, specially fellow developers, so please don't be shy, just contact me anywhere and I'd love to meet you.
